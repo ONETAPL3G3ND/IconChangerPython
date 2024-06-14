@@ -1,3 +1,4 @@
+#https://github.com/ONETAPL3G3ND
 import win32com.client
 
 def change_icon(shortcut_path, icon_path):
